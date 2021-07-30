@@ -34,7 +34,6 @@ Actualmente me encuentro a punto de completar un bootcamp intensivo de +700 hora
 ### HenryPókedex
 #### Proyecto Individual Full Stack (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
 Usando una api online de Pokemon puedes buscar tus pokemones favoritos y descubrir sus atributos. Y si no puedes crear tus propios pokemones con su propia imagen indicando tus atributos deseados!
-You can search for your favorite recipes and learn more about them! Also you can create new recipes, including an image, summary, instructions and diets. 
 
 
 [<img src="https://github.com/inakiotegui/inakiotegui/blob/main/ProyectoAnimation-(1).gif"/>](https://github.com/inakiotegui/PI-Pokemon-FT13) 
