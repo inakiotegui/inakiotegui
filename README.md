@@ -5,7 +5,7 @@ Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Ar
 ## Habilidades técnicas
 
 <p align="center">
-<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/logos.png"/>
+<img src="https://github.com/inakiotegui/inakiotegui/blob/main/AABANNER.png"/>
 </p>
 
 ---
@@ -13,14 +13,14 @@ Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Ar
 ## Contacto 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sofiarocchietti/">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
+    <a href="https://www.linkedin.com/in/i%C3%B1akiotegui/">
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/linkedIn_PNG22.png' alt='linkedin' height='60'>
     </a>
-      <a href="https://github.com/sofiarocchietti">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/github-154-675675.png' alt='github' height='60'>
+      <a href="https://github.com/inakiotegui">
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/github-154-675675.png' alt='github' height='60'>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5493513076936">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
+    <a href="https://api.whatsapp.com/send?phone=5492477469432">
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/Sin%20t%C3%ADtulo-1.png' alt='whatsapp' height='60'>
     </a>
 </p>
 
