@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Argentina 💻😁
+Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Argentina 💻😁<br>
+Actualmente me encuentro a punto de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
 
 ## Habilidades técnicas
 
@@ -23,19 +24,21 @@ Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Ar
       <img src='https://github.com/inakiotegui/inakiotegui/blob/main/whatsapp.png' alt='whatsapp' height='60'>
     </a>
 </p>
+<h4 align="center">Email: inakiotegui1@gmail.com </h4>
 
 ---
-<!--
-**inakiotegui/inakiotegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projectos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### HenryPokedex
+#### Proyecto Individual Full Stack (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
+Usando una api online de Pokemon puedes buscar tus pokemones favoritos y descubrir sus atributos. Y si no puedes crear tus propios pokemones con su propia imagen indicando tus atributos deseados!
+You can search for your favorite recipes and learn more about them! Also you can create new recipes, including an image, summary, instructions and diets. 
+
+
+[<img src="https://github.com/inakiotegui/inakiotegui/blob/main/ProyectoAnimation-(1).gif"/>](https://github.com/inakiotegui/PI-Pokemon-FT13) 
+
+#### Link al repositorio [aquí](https://github.com/inakiotegui/PI-Pokemon-FT13)
+
+---
