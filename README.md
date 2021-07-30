@@ -14,13 +14,13 @@ Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Ar
 
 <p align="center">
     <a href="https://www.linkedin.com/in/i%C3%B1akiotegui/">
-      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/linkedIn_PNG22.png' alt='linkedin' height='60'>
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/linkedin.png' alt='linkedin' height='60'>
     </a>
       <a href="https://github.com/inakiotegui">
-      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/github-154-675675.png' alt='github' height='60'>
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/github.png' alt='github' height='60'>
     </a>
     <a href="https://api.whatsapp.com/send?phone=5492477469432">
-      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/Sin%20t%C3%ADtulo-1.png' alt='whatsapp' height='60'>
+      <img src='https://github.com/inakiotegui/inakiotegui/blob/main/whatsapp.png' alt='whatsapp' height='60'>
     </a>
 </p>
 
