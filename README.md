@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Argentina 💻😁<br>
-Actualmente me encuentro a punto de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
+Actualmente me encuentro buscando trabajo en el rubro luego de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
 
 ## Habilidades técnicas
 
