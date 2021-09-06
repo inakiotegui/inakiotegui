@@ -28,7 +28,7 @@ Actualmente me encuentro buscando trabajo en el rubro luego de completar un boot
 
 ---
 
-## Projectos 
+## Proyectos 
 
 ---
 ### HenryPókedex
@@ -39,5 +39,15 @@ Usando una api online de Pokemon puedes buscar tus pokemones favoritos y descubr
 [<img src="https://github.com/inakiotegui/inakiotegui/blob/main/ProyectoAnimation-(1).gif"/>](https://github.com/inakiotegui/PI-Pokemon-FT13) 
 
 #### Link al repositorio [aquí](https://github.com/inakiotegui/PI-Pokemon-FT13)
+
+---
+### Portfolio
+#### Mi primer portfolio como desarrollador
+Desarrollado íntegramente con React y CSS. Deployado en vercell con mi propio dominio.
+
+
+[<img src="https://github.com/inakiotegui/inakiotegui/blob/main/PortfolioAnimation.gif"/>](https://inakiotegui.com/) 
+
+#### Link al repositorio [aquí](https://github.com/inakiotegui/Portfolio)
 
 ---
