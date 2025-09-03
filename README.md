@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 21 años de Argentina 💻😁<br>
+Bienvenidos a mi perfil!! Soy Iñaki, desarrollador Full Stack de 25 años de Argentina 💻😁<br>
 Actualmente me encuentro buscando trabajo en el rubro luego de completar un bootcamp intensivo de +700 horas. Disfruto mucho el crear soluciones, sobretodo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.
 
 ## Habilidades técnicas
@@ -31,6 +31,28 @@ Actualmente me encuentro buscando trabajo en el rubro luego de completar un boot
 ## Proyectos 
 
 ---
+
+### 🎸 [RockConquista Web](https://github.com/inakiotegui/rockconquista-web)
+🌐 [rockconquista.com](https://www.rockconquista.com/)  
+Landing oficial del festival Rock Conquista 2025, con animaciones fluidas y diseño responsive.  
+![RockConquista](https://www.rockconquista.com/preview.png)
+
+---
+
+### 🌐 [BeskoCorp Web](https://github.com/inakiotegui/besko-corp)
+🌐 [beskocorp.com](https://www.beskocorp.com/)  
+Página corporativa profesional con identidad visual clara y navegación optimizada.  
+![BeskoCorp](https://www.beskocorp.com/preview.png)
+
+---
+
+### 🍴 [FacuFood Web](https://github.com/inakiotegui/facu-natural-food)
+🌐 [facufood.com](https://www.facufood.com/)  
+Sitio web con estilo moderno, simple y accesible desde cualquier dispositivo.  
+![FacuFood](https://www.facufood.com/preview.png)
+
+---
+
 ### HenryPókedex
 #### Proyecto Individual Full Stack (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
 Usando una api online de Pokemon puedes buscar tus pokemones favoritos y descubrir sus atributos. Y si no puedes crear tus propios pokemones con su propia imagen indicando tus atributos deseados!
@@ -43,7 +65,7 @@ Usando una api online de Pokemon puedes buscar tus pokemones favoritos y descubr
 ---
 ### Portfolio
 #### Mi primer portfolio como desarrollador
-Desarrollado íntegramente con React y CSS. Deployado en vercell con mi propio dominio.
+Desarrollado íntegramente con React y CSS.
 
 
 [<img src="https://github.com/inakiotegui/inakiotegui/blob/main/PortfolioAnimation.gif"/>](https://inakiotegui.com/) 
